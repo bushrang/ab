@@ -1,0 +1,361 @@
+0000.000 (0) Opened log file at time: Tue, 08 Dec 2015 22:50:24 +0000 on http://Booking:8888
+0000.003 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 2.11.9.1 WP: 4.3.1 PHP: 5.6.10 (Darwin Heikos-MBP.fritz.box 14.5.0 Darwin Kernel Version 14.5.0: Wed Jul 29 02:26:53 PDT 2015; root:xnu-2782.40.9~1/RELEASE_X86_64 x86_64) MySQL: 5.5.42 Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 39.4M | 40M) multisite: N mcrypt: Y LANG:  ZipArchive::addFile: Y
+0000.006 (0) Free space on disk containing Updraft's temporary directory: 61671.5 Mb
+0000.009 (0) Tasks: Backup files: 1 (schedule: unset) Backup DB: 1 (schedule: unset)
+0000.016 (0) Requesting semaphore lock (fd)
+0000.021 (0) Set semaphore last lock (fd) time to 2015-12-08 22:50:24
+0000.023 (0) Semaphore lock (fd) complete
+0000.030 (0) Backup run: resumption=0, nonce=52b77a92afc0, begun at=1449615024 (0s ago), job type=backup
+0000.033 (0) Scheduling a resumption (1) after 300 seconds (1449615324) in case this run gets aborted
+0000.047 (0) Checking if we have a zip executable available
+0000.049 (0) Testing: /usr/bin/zip
+0000.056 (0) Output: zip warning: binziptest/test.zip not found or empty
+0000.058 (0) Output: adding: binziptest/subdir1/	(in=0) (out=0) (stored 0%)
+0000.060 (0) Output: adding: binziptest/subdir1/subdir2/	(in=0) (out=0) (stored 0%)
+0000.062 (0) Output: adding: binziptest/subdir1/subdir2/test.html	(in=128) (out=105) (deflated 18%)
+0000.064 (0) Output: total bytes=128, compressed=105 -> 18% savings
+0000.070 (0) Output: adding: binziptest/subdir1/subdir2/test2.html	(in=135) (out=111) (deflated 18%)
+0000.072 (0) Output: total bytes=263, compressed=216 -> 18% savings
+0000.085 (0) Working binary zip found: /usr/bin/zip
+0000.089 (0) Zip engine: found/will use a binary zip: /usr/bin/zip
+0000.090 (0) Creation of backups of directories: beginning
+0000.096 (0) Beginning creation of dump of plugins (split every: 500 Mb)
+0000.264 (0) Total entities for the zip file: 251 directories, 1816 files (0 skipped as non-modified), 31.5 Mb
+0000.269 (0) Zip: backup_2015-12-08-2350_adbites_52b77a92afc0-plugins.zip.tmp: 100 files added (on-disk size: 0 Kb)
+0000.274 (0) Zip: backup_2015-12-08-2350_adbites_52b77a92afc0-plugins.zip.tmp: 200 files added (on-disk size: 0 Kb)
+0000.278 (0) Zip: backup_2015-12-08-2350_adbites_52b77a92afc0-plugins.zip.tmp: 300 files added (on-disk size: 0 Kb)
+0000.282 (0) Zip: backup_2015-12-08-2350_adbites_52b77a92afc0-plugins.zip.tmp: 400 files added (on-disk size: 0 Kb)
+0000.286 (0) Zip: backup_2015-12-08-2350_adbites_52b77a92afc0-plugins.zip.tmp: 500 files added (on-disk size: 0 Kb)
+0000.287 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (11.1 Mb, 1816 files batched, 501 (501) added so far); re-opening (prior size: 0 Kb)
+0000.860 (0) backup_2015-12-08-2350_adbites_52b77a92afc0-plugins.zip.tmp: size is now: 4.10 Mb
+0000.865 (0) Zip: backup_2015-12-08-2350_adbites_52b77a92afc0-plugins.zip.tmp: 600 files added (on-disk size: 4186.7 Kb)
+0000.869 (0) Zip: backup_2015-12-08-2350_adbites_52b77a92afc0-plugins.zip.tmp: 700 files added (on-disk size: 4186.7 Kb)
+0000.872 (0) Zip: backup_2015-12-08-2350_adbites_52b77a92afc0-plugins.zip.tmp: 800 files added (on-disk size: 4186.7 Kb)
+0000.876 (0) Zip: backup_2015-12-08-2350_adbites_52b77a92afc0-plugins.zip.tmp: 900 files added (on-disk size: 4186.7 Kb)
+0000.880 (0) Zip: backup_2015-12-08-2350_adbites_52b77a92afc0-plugins.zip.tmp: 1000 files added (on-disk size: 4186.7 Kb)
+0000.882 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (13.8 Mb, 1816 files batched, 501 (1002) added so far); re-opening (prior size: 4186.7 Kb)
+0001.568 (0) backup_2015-12-08-2350_adbites_52b77a92afc0-plugins.zip.tmp: size is now: 8.20 Mb
+0001.576 (0) Zip: backup_2015-12-08-2350_adbites_52b77a92afc0-plugins.zip.tmp: 1100 files added (on-disk size: 8443.1 Kb)
+0001.580 (0) Zip: backup_2015-12-08-2350_adbites_52b77a92afc0-plugins.zip.tmp: 1200 files added (on-disk size: 8443.1 Kb)
+0001.584 (0) Zip: backup_2015-12-08-2350_adbites_52b77a92afc0-plugins.zip.tmp: 1300 files added (on-disk size: 8443.1 Kb)
+0001.587 (0) Zip: backup_2015-12-08-2350_adbites_52b77a92afc0-plugins.zip.tmp: 1400 files added (on-disk size: 8443.1 Kb)
+0001.591 (0) Zip: backup_2015-12-08-2350_adbites_52b77a92afc0-plugins.zip.tmp: 1500 files added (on-disk size: 8443.1 Kb)
+0001.594 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (2 Mb, 1816 files batched, 501 (1503) added so far); re-opening (prior size: 8443.1 Kb)
+0001.806 (0) Zip: backup_2015-12-08-2350_adbites_52b77a92afc0-plugins.zip.tmp: 1600 files added (on-disk size: 9281.4 Kb)
+0001.809 (0) Zip: backup_2015-12-08-2350_adbites_52b77a92afc0-plugins.zip.tmp: 1700 files added (on-disk size: 9281.4 Kb)
+0001.813 (0) Zip: backup_2015-12-08-2350_adbites_52b77a92afc0-plugins.zip.tmp: 1800 files added (on-disk size: 9281.4 Kb)
+0002.228 (0) Created plugins zip (0) - 11093.3 Kb in 2.1 s (5208.3 Kb/s) (SHA1 checksum: 1fcc249ff9c7be9a3a2127c0552e9a93d296a208)
+0002.232 (0) Beginning creation of dump of themes (split every: 500 Mb)
+0002.250 (0) Total entities for the zip file: 20 directories, 128 files (0 skipped as non-modified), 2.6 Mb
+0002.254 (0) Zip: backup_2015-12-08-2350_adbites_52b77a92afc0-themes.zip.tmp: 100 files added (on-disk size: 0 Kb)
+0002.360 (0) backup_2015-12-08-2350_adbites_52b77a92afc0-themes.zip.tmp: size is now: 1.30 Mb
+0002.376 (0) Created themes zip (0) - 1327.5 Kb in 0.1 s (9348.6 Kb/s) (SHA1 checksum: 99d1dd698193295cd83e0db31b5b94d6215a17c9)
+0002.382 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone
+0002.384 (0) Looking for candidates to back up in: /Users/heikoschneider/Dropbox/Dev/Booking/ressources/assets
+0002.385 (0) finding files: .DS_Store: adding to list (1)
+0002.387 (0) finding files: adbites-social-media4.svg: adding to list (2)
+0002.388 (0) finding files: adbites-team-1024x527.jpg: adding to list (3)
+0002.390 (0) finding files: adbites-team-150x150.jpg: adding to list (4)
+0002.392 (0) finding files: adbites-team-3-1024x527.jpg: adding to list (5)
+0002.393 (0) finding files: adbites-team-3-150x150.jpg: adding to list (6)
+0002.395 (0) finding files: adbites-team-3-300x154.jpg: adding to list (7)
+0002.396 (0) finding files: adbites-team-3.jpg: adding to list (8)
+0002.398 (0) finding files: adbites-team-300x154.jpg: adding to list (9)
+0002.400 (0) finding files: adbites-team.jpg: adding to list (10)
+0002.402 (0) finding files: adbites_desk-50x50.jpg: adding to list (11)
+0002.403 (0) finding files: adbites_logo.svg: adding to list (12)
+0002.405 (0) finding files: adbites_logo1.svg: adding to list (13)
+0002.406 (0) finding files: adbites_logo_dgrey.svg: adding to list (14)
+0002.408 (0) finding files: adbites_logo_grey.svg: adding to list (15)
+0002.409 (0) finding files: adbites_or.svg: adding to list (16)
+0002.411 (0) finding files: adbites_or1.svg: adding to list (17)
+0002.412 (0) finding files: adbites_wt.svg: adding to list (18)
+0002.414 (0) finding files: adbites_wt1.svg: adding to list (19)
+0002.415 (0) finding files: AdbitesReel.mp4.mp4: adding to list (20)
+0002.416 (0) finding files: AdbitesReel.ogv: adding to list (21)
+0002.418 (0) finding files: AdbitesReel.webm: adding to list (22)
+0002.419 (0) finding files: AmarulaLogo-150x150.jpg: adding to list (23)
+0002.421 (0) finding files: AmarulaLogo-300x225.jpg: adding to list (24)
+0002.423 (0) finding files: AmarulaLogo.jpg: adding to list (25)
+0002.424 (0) finding files: animat-rocket-150x150.gif: adding to list (26)
+0002.426 (0) finding files: animat-rocket-300x300.gif: adding to list (27)
+0002.427 (0) finding files: animat-rocket.gif: adding to list (28)
+0002.429 (0) finding files: ansatz-background1-1024x325.jpg: adding to list (29)
+0002.430 (0) finding files: ansatz-background1-150x150.jpg: adding to list (30)
+0002.432 (0) finding files: ansatz-background1-300x95.jpg: adding to list (31)
+0002.433 (0) finding files: ansatz-background1.jpg: adding to list (32)
+0002.435 (0) finding files: backgroundtest-1024x580.jpg: adding to list (33)
+0002.437 (0) finding files: backgroundtest-150x150.jpg: adding to list (34)
+0002.438 (0) finding files: backgroundtest-300x170.jpg: adding to list (35)
+0002.440 (0) finding files: backgroundtest.jpg: adding to list (36)
+0002.441 (0) finding files: casestudy_desktop_hero-1024x576.jpg: adding to list (37)
+0002.443 (0) finding files: casestudy_desktop_hero-150x150.jpg: adding to list (38)
+0002.445 (0) finding files: casestudy_desktop_hero-300x169.jpg: adding to list (39)
+0002.447 (0) finding files: casestudy_desktop_hero.jpg: adding to list (40)
+0002.448 (0) finding files: DE_logo-3.svg: adding to list (41)
+0002.450 (0) finding files: digital-ansatz-1024x448.jpg: adding to list (42)
+0002.452 (0) finding files: digital-ansatz-150x150.jpg: adding to list (43)
+0002.453 (0) finding files: digital-ansatz-300x131.jpg: adding to list (44)
+0002.455 (0) finding files: digital-ansatz.jpg: adding to list (45)
+0002.456 (0) finding files: divider_orange.svg: adding to list (46)
+0002.457 (0) finding files: divider_orange1.svg: adding to list (47)
+0002.459 (0) finding files: FragMutti_04112015-150x150.png: adding to list (48)
+0002.461 (0) finding files: FragMutti_04112015-300x225.png: adding to list (49)
+0002.462 (0) finding files: FragMutti_04112015.png: adding to list (50)
+0002.463 (0) finding files: henkel-lifetimes-agentur-3-150x150.jpg: adding to list (51)
+0002.463 (0) finding files: henkel-lifetimes-agentur-3-300x179.jpg: adding to list (52)
+0002.463 (0) finding files: henkel-lifetimes-agentur-3.jpg: adding to list (53)
+0002.463 (0) finding files: henkel-lifetimes-lg-1024x549.jpg: adding to list (54)
+0002.463 (0) finding files: henkel-lifetimes-lg-150x150.jpg: adding to list (55)
+0002.464 (0) finding files: henkel-lifetimes-lg-300x161.jpg: adding to list (56)
+0002.464 (0) finding files: henkel-lifetimes-lg.jpg: adding to list (57)
+0002.464 (0) finding files: Henkel.svg: adding to list (58)
+0002.464 (0) finding files: LBSLogo.svg: adding to list (59)
+0002.464 (0) finding files: Lifetimes_Logo.svg: adding to list (60)
+0002.464 (0) finding files: lighthouse-1024x683.jpg: adding to list (61)
+0002.464 (0) finding files: lighthouse-150x150.jpg: adding to list (62)
+0002.464 (0) finding files: lighthouse-300x200.jpg: adding to list (63)
+0002.464 (0) finding files: lighthouse.jpg: adding to list (64)
+0002.464 (0) finding files: lighthouse1-1024x546.jpg: adding to list (65)
+0002.464 (0) finding files: lighthouse1-150x150.jpg: adding to list (66)
+0002.464 (0) finding files: lighthouse1-300x160.jpg: adding to list (67)
+0002.464 (0) finding files: lighthouse1.jpg: adding to list (68)
+0002.464 (0) finding files: lighthouse_b-1024x546.jpg: adding to list (69)
+0002.464 (0) finding files: lighthouse_b-150x150.jpg: adding to list (70)
+0002.464 (0) finding files: lighthouse_b-300x160.jpg: adding to list (71)
+0002.464 (0) finding files: lighthouse_b.jpg: adding to list (72)
+0002.464 (0) finding files: MA_Logo.svg: adding to list (73)
+0002.464 (0) finding files: NovaLogo.svg: adding to list (74)
+0002.464 (0) finding files: PituLogo-150x150.jpg: adding to list (75)
+0002.464 (0) finding files: PituLogo-300x225.jpg: adding to list (76)
+0002.464 (0) finding files: PituLogo.jpg: adding to list (77)
+0002.464 (0) finding files: pril-facebook-agentur-lg-2-1024x549.jpg: adding to list (78)
+0002.464 (0) finding files: pril-facebook-agentur-lg-2-150x150.jpg: adding to list (79)
+0002.464 (0) finding files: pril-facebook-agentur-lg-2-300x161.jpg: adding to list (80)
+0002.464 (0) finding files: pril-facebook-agentur-lg-2.jpg: adding to list (81)
+0002.464 (0) finding files: pril-product-150x150.jpg: adding to list (82)
+0002.464 (0) finding files: pril-product-300x157.jpg: adding to list (83)
+0002.464 (0) finding files: pril-product.jpg: adding to list (84)
+0002.464 (0) finding files: pril-product1-150x150.jpg: adding to list (85)
+0002.464 (0) finding files: pril-product1-300x157.jpg: adding to list (86)
+0002.464 (0) finding files: pril-product1.jpg: adding to list (87)
+0002.464 (0) finding files: pril-wowmente1-1024x614.jpg: adding to list (88)
+0002.464 (0) finding files: pril-wowmente1-150x150.jpg: adding to list (89)
+0002.464 (0) finding files: pril-wowmente1-300x180.jpg: adding to list (90)
+0002.465 (0) finding files: pril-wowmente1.jpg: adding to list (91)
+0002.465 (0) finding files: pril-wowmente_ov-150x150.jpg: adding to list (92)
+0002.465 (0) finding files: pril-wowmente_ov-300x179.jpg: adding to list (93)
+0002.465 (0) finding files: pril-wowmente_ov.jpg: adding to list (94)
+0002.465 (0) finding files: pril_wowmente-1024x549.jpg: adding to list (95)
+0002.465 (0) finding files: pril_wowmente-150x150.jpg: adding to list (96)
+0002.465 (0) finding files: pril_wowmente-300x161.jpg: adding to list (97)
+0002.465 (0) finding files: pril_wowmente.jpg: adding to list (98)
+0002.465 (0) finding files: PrilLogo-2-150x150.jpg: adding to list (99)
+0002.465 (0) finding files: PrilLogo-2-300x225.jpg: adding to list (100)
+0002.466 (0) finding files: PrilLogo-2.jpg: adding to list (101)
+0002.466 (0) finding files: social-media-agentur-1024x448.jpg: adding to list (102)
+0002.466 (0) finding files: social-media-agentur-150x150.jpg: adding to list (103)
+0002.466 (0) finding files: social-media-agentur-300x131.jpg: adding to list (104)
+0002.467 (0) finding files: social-media-agentur.jpg: adding to list (105)
+0002.467 (0) finding files: socialb-150x150.jpg: adding to list (106)
+0002.467 (0) finding files: socialb-300x146.jpg: adding to list (107)
+0002.467 (0) finding files: socialb.jpg: adding to list (108)
+0002.467 (0) finding files: spee-weltreise1-1024x614.jpg: adding to list (109)
+0002.467 (0) finding files: spee-weltreise1-150x150.jpg: adding to list (110)
+0002.467 (0) finding files: spee-weltreise1-300x180.jpg: adding to list (111)
+0002.467 (0) finding files: spee-weltreise1.jpg: adding to list (112)
+0002.467 (0) finding files: SpeeLogo-150x150.jpg: adding to list (113)
+0002.467 (0) finding files: SpeeLogo-300x225.jpg: adding to list (114)
+0002.467 (0) finding files: SpeeLogo.jpg: adding to list (115)
+0002.467 (0) finding files: testbildcases-150x150.jpg: adding to list (116)
+0002.467 (0) finding files: testbildcases-300x173.jpg: adding to list (117)
+0002.467 (0) finding files: testbildcases.jpg: adding to list (118)
+0002.467 (0) finding files: ub-compressor.svg: adding to list (119)
+0002.467 (0) finding files: underberg-talentsuche-1024x614.jpg: adding to list (120)
+0002.467 (0) finding files: underberg-talentsuche-150x150.jpg: adding to list (121)
+0002.467 (0) finding files: underberg-talentsuche-300x180.jpg: adding to list (122)
+0002.467 (0) finding files: underberg-talentsuche.jpg: adding to list (123)
+0002.467 (0) Beginning creation of dump of uploads (split every: 500 Mb)
+0002.485 (0) Total entities for the zip file: 0 directories, 123 files (0 skipped as non-modified), 15.8 Mb
+0002.489 (0) Zip: backup_2015-12-08-2350_adbites_52b77a92afc0-uploads.zip.tmp: 100 files added (on-disk size: 0 Kb)
+0002.703 (0) backup_2015-12-08-2350_adbites_52b77a92afc0-uploads.zip.tmp: size is now: 15.70 Mb
+0002.813 (0) Created uploads zip (0) - 16057.1 Kb in 0.3 s (46745.2 Kb/s) (SHA1 checksum: 6180f66a9d390da784a8a11d059f0bb97a0d9789)
+0002.817 (0) Beginning backup of other directories found in the content directory (index: 0)
+0002.819 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql
+0002.821 (0) Looking for candidates to back up in: /Users/heikoschneider/Dropbox/Dev/Booking/ressources
+0002.822 (0) finding files: .DS_Store: adding to list (1)
+0002.824 (0) finding files: addons: skipping: this is the plugins directory
+0002.826 (0) finding files: assets: skipping: this is the uploads directory
+0002.828 (0) finding files: languages: adding to list (2)
+0002.829 (0) finding files: themes: skipping: this is the themes directory
+0002.831 (0) finding files: updraft: skipping: this is the updraft directory
+0002.832 (0) finding files: upgrade: skipping: excluded by options
+0002.838 (0) Total entities for the zip file: 3 directories, 13 files (0 skipped as non-modified), 1.4 Mb
+0002.919 (0) backup_2015-12-08-2350_adbites_52b77a92afc0-others.zip.tmp: size is now: 0.40 Mb
+0002.930 (0) Created others zip (0) - 415.6 Kb in 0.1 s (4367.6 Kb/s) (SHA1 checksum: 6fc4f5415edeb0821e9bff397694b150c3a5310f)
+0002.939 (0) Saving backup status to database (elements: 8)
+0002.943 (0) Beginning creation of database dump (WordPress DB)
+0002.959 (0) Table wp_options: Total expected rows (approximate): 540
+0003.011 (0) Table wp_options: Total rows added: 316 in 0.05 seconds
+0003.014 (0) Table wp_options: finishing file (backup_2015-12-08-2350_adbites_52b77a92afc0-db-table-wp_options.table.gz - 125.7 Kb)
+0003.021 (0) Table wp_users: Total expected rows (approximate): 1
+0003.025 (0) Table wp_users: Total rows added: 1 in 0.00 seconds
+0003.028 (0) Table wp_users: finishing file (backup_2015-12-08-2350_adbites_52b77a92afc0-db-table-wp_users.table.gz - 0.5 Kb)
+0003.035 (0) Table wp_usermeta: Total expected rows (approximate): 28
+0003.039 (0) Table wp_usermeta: Total rows added: 28 in 0.00 seconds
+0003.041 (0) Table wp_usermeta: finishing file (backup_2015-12-08-2350_adbites_52b77a92afc0-db-table-wp_usermeta.table.gz - 1.3 Kb)
+0003.048 (0) Table wp_commentmeta: Total expected rows (approximate): 10
+0003.052 (0) Table wp_commentmeta: Total rows added: 10 in 0.00 seconds
+0003.054 (0) Table wp_commentmeta: finishing file (backup_2015-12-08-2350_adbites_52b77a92afc0-db-table-wp_commentmeta.table.gz - 0.5 Kb)
+0003.061 (0) Table wp_comments: Total expected rows (approximate): 20
+0003.067 (0) Table wp_comments: Total rows added: 20 in 0.00 seconds
+0003.076 (0) Table wp_comments: finishing file (backup_2015-12-08-2350_adbites_52b77a92afc0-db-table-wp_comments.table.gz - 2.8 Kb)
+0003.092 (0) Table wp_links: Total expected rows (approximate): 0
+0003.095 (0) Table wp_links: Total rows added: 0 in 0.00 seconds
+0003.097 (0) Table wp_links: finishing file (backup_2015-12-08-2350_adbites_52b77a92afc0-db-table-wp_links.table.gz - 0.4 Kb)
+0003.105 (0) Table wp_postmeta: Total expected rows (approximate): 1672
+0003.149 (0) Table wp_postmeta: Total rows added: 1310 in 0.04 seconds
+0003.152 (0) Table wp_postmeta: finishing file (backup_2015-12-08-2350_adbites_52b77a92afc0-db-table-wp_postmeta.table.gz - 18.7 Kb)
+0003.158 (0) Table wp_posts: Total expected rows (approximate): 139
+0003.192 (0) Table wp_posts: Total rows added: 160 in 0.03 seconds
+0003.195 (0) Table wp_posts: finishing file (backup_2015-12-08-2350_adbites_52b77a92afc0-db-table-wp_posts.table.gz - 34 Kb)
+0003.201 (0) Table wp_term_relationships: Total expected rows (approximate): 40
+0003.205 (0) Table wp_term_relationships: Total rows added: 40 in 0.00 seconds
+0003.207 (0) Table wp_term_relationships: finishing file (backup_2015-12-08-2350_adbites_52b77a92afc0-db-table-wp_term_relationships.table.gz - 0.5 Kb)
+0003.214 (0) Table wp_term_taxonomy: Total expected rows (approximate): 6
+0003.218 (0) Table wp_term_taxonomy: Total rows added: 6 in 0.00 seconds
+0003.220 (0) Table wp_term_taxonomy: finishing file (backup_2015-12-08-2350_adbites_52b77a92afc0-db-table-wp_term_taxonomy.table.gz - 0.8 Kb)
+0003.228 (0) Table wp_terms: Total expected rows (approximate): 6
+0003.232 (0) Table wp_terms: Total rows added: 6 in 0.00 seconds
+0003.234 (0) Table wp_terms: finishing file (backup_2015-12-08-2350_adbites_52b77a92afc0-db-table-wp_terms.table.gz - 0.5 Kb)
+0003.243 (0) Table wp_ab_appointments: Total expected rows (approximate): 0
+0003.248 (0) Table wp_ab_appointments: Total rows added: 0 in 0.00 seconds
+0003.251 (0) Table wp_ab_appointments: finishing file (backup_2015-12-08-2350_adbites_52b77a92afc0-db-table-wp_ab_appointments.table.gz - 0.4 Kb)
+0003.259 (0) Table wp_ab_categories: Total expected rows (approximate): 0
+0003.262 (0) Table wp_ab_categories: Total rows added: 0 in 0.00 seconds
+0003.265 (0) Table wp_ab_categories: finishing file (backup_2015-12-08-2350_adbites_52b77a92afc0-db-table-wp_ab_categories.table.gz - 0.3 Kb)
+0003.272 (0) Table wp_ab_coupons: Total expected rows (approximate): 0
+0003.275 (0) Table wp_ab_coupons: Total rows added: 0 in 0.00 seconds
+0003.277 (0) Table wp_ab_coupons: finishing file (backup_2015-12-08-2350_adbites_52b77a92afc0-db-table-wp_ab_coupons.table.gz - 0.3 Kb)
+0003.286 (0) Table wp_ab_customer_appointments: Total expected rows (approximate): 0
+0003.290 (0) Table wp_ab_customer_appointments: Total rows added: 0 in 0.00 seconds
+0003.292 (0) Table wp_ab_customer_appointments: finishing file (backup_2015-12-08-2350_adbites_52b77a92afc0-db-table-wp_ab_customer_appointments.table.gz - 0.5 Kb)
+0003.299 (0) Table wp_ab_customers: Total expected rows (approximate): 0
+0003.303 (0) Table wp_ab_customers: Total rows added: 0 in 0.00 seconds
+0003.305 (0) Table wp_ab_customers: finishing file (backup_2015-12-08-2350_adbites_52b77a92afc0-db-table-wp_ab_customers.table.gz - 0.3 Kb)
+0003.314 (0) Table wp_ab_holidays: Total expected rows (approximate): 0
+0003.317 (0) Table wp_ab_holidays: Total rows added: 0 in 0.00 seconds
+0003.319 (0) Table wp_ab_holidays: finishing file (backup_2015-12-08-2350_adbites_52b77a92afc0-db-table-wp_ab_holidays.table.gz - 0.4 Kb)
+0003.328 (0) Table wp_ab_notifications: Total expected rows (approximate): 14
+0003.332 (0) Table wp_ab_notifications: Total rows added: 14 in 0.00 seconds
+0003.335 (0) Table wp_ab_notifications: finishing file (backup_2015-12-08-2350_adbites_52b77a92afc0-db-table-wp_ab_notifications.table.gz - 1.4 Kb)
+0003.343 (0) Table wp_ab_payments: Total expected rows (approximate): 0
+0003.347 (0) Table wp_ab_payments: Total rows added: 0 in 0.00 seconds
+0003.349 (0) Table wp_ab_payments: finishing file (backup_2015-12-08-2350_adbites_52b77a92afc0-db-table-wp_ab_payments.table.gz - 0.5 Kb)
+0003.357 (0) Table wp_ab_schedule_item_breaks: Total expected rows (approximate): 0
+0003.360 (0) Table wp_ab_schedule_item_breaks: Total rows added: 0 in 0.00 seconds
+0003.363 (0) Table wp_ab_schedule_item_breaks: finishing file (backup_2015-12-08-2350_adbites_52b77a92afc0-db-table-wp_ab_schedule_item_breaks.table.gz - 0.4 Kb)
+0003.371 (0) Table wp_ab_sent_notifications: Total expected rows (approximate): 0
+0003.374 (0) Table wp_ab_sent_notifications: Total rows added: 0 in 0.00 seconds
+0003.377 (0) Table wp_ab_sent_notifications: finishing file (backup_2015-12-08-2350_adbites_52b77a92afc0-db-table-wp_ab_sent_notifications.table.gz - 0.4 Kb)
+0003.385 (0) Table wp_ab_services: Total expected rows (approximate): 1
+0003.389 (0) Table wp_ab_services: Total rows added: 1 in 0.00 seconds
+0003.393 (0) Table wp_ab_services: finishing file (backup_2015-12-08-2350_adbites_52b77a92afc0-db-table-wp_ab_services.table.gz - 0.5 Kb)
+0003.404 (0) Table wp_ab_staff: Total expected rows (approximate): 1
+0003.408 (0) Table wp_ab_staff: Total rows added: 1 in 0.00 seconds
+0003.411 (0) Table wp_ab_staff: finishing file (backup_2015-12-08-2350_adbites_52b77a92afc0-db-table-wp_ab_staff.table.gz - 0.5 Kb)
+0003.420 (0) Table wp_ab_staff_schedule_items: Total expected rows (approximate): 7
+0003.425 (0) Table wp_ab_staff_schedule_items: Total rows added: 7 in 0.00 seconds
+0003.428 (0) Table wp_ab_staff_schedule_items: finishing file (backup_2015-12-08-2350_adbites_52b77a92afc0-db-table-wp_ab_staff_schedule_items.table.gz - 0.5 Kb)
+0003.436 (0) Table wp_ab_staff_services: Total expected rows (approximate): 0
+0003.440 (0) Table wp_ab_staff_services: Total rows added: 0 in 0.00 seconds
+0003.442 (0) Table wp_ab_staff_services: finishing file (backup_2015-12-08-2350_adbites_52b77a92afc0-db-table-wp_ab_staff_services.table.gz - 0.4 Kb)
+0003.450 (0) Table wp_rg_form: Total expected rows (approximate): 1
+0003.454 (0) Table wp_rg_form: Total rows added: 1 in 0.00 seconds
+0003.456 (0) Table wp_rg_form: finishing file (backup_2015-12-08-2350_adbites_52b77a92afc0-db-table-wp_rg_form.table.gz - 0.4 Kb)
+0003.466 (0) Table wp_rg_form_meta: Total expected rows (approximate): 1
+0003.470 (0) Table wp_rg_form_meta: Total rows added: 1 in 0.00 seconds
+0003.474 (0) Table wp_rg_form_meta: finishing file (backup_2015-12-08-2350_adbites_52b77a92afc0-db-table-wp_rg_form_meta.table.gz - 1.4 Kb)
+0003.482 (0) Table wp_rg_form_view: Total expected rows (approximate): 1
+0003.485 (0) Table wp_rg_form_view: Total rows added: 1 in 0.00 seconds
+0003.487 (0) Table wp_rg_form_view: finishing file (backup_2015-12-08-2350_adbites_52b77a92afc0-db-table-wp_rg_form_view.table.gz - 0.4 Kb)
+0003.495 (0) Table wp_rg_incomplete_submissions: Total expected rows (approximate): 0
+0003.499 (0) Table wp_rg_incomplete_submissions: Total rows added: 0 in 0.00 seconds
+0003.501 (0) Table wp_rg_incomplete_submissions: finishing file (backup_2015-12-08-2350_adbites_52b77a92afc0-db-table-wp_rg_incomplete_submissions.table.gz - 0.4 Kb)
+0003.510 (0) Table wp_rg_lead: Total expected rows (approximate): 5
+0003.516 (0) Table wp_rg_lead: Total rows added: 5 in 0.00 seconds
+0003.519 (0) Table wp_rg_lead: finishing file (backup_2015-12-08-2350_adbites_52b77a92afc0-db-table-wp_rg_lead.table.gz - 0.8 Kb)
+0003.528 (0) Table wp_rg_lead_detail: Total expected rows (approximate): 25
+0003.532 (0) Table wp_rg_lead_detail: Total rows added: 25 in 0.00 seconds
+0003.534 (0) Table wp_rg_lead_detail: finishing file (backup_2015-12-08-2350_adbites_52b77a92afc0-db-table-wp_rg_lead_detail.table.gz - 0.6 Kb)
+0003.542 (0) Table wp_rg_lead_detail_long: Total expected rows (approximate): 0
+0003.546 (0) Table wp_rg_lead_detail_long: Total rows added: 0 in 0.00 seconds
+0003.549 (0) Table wp_rg_lead_detail_long: finishing file (backup_2015-12-08-2350_adbites_52b77a92afc0-db-table-wp_rg_lead_detail_long.table.gz - 0.3 Kb)
+0003.555 (0) Table wp_rg_lead_meta: Total expected rows (approximate): 0
+0003.559 (0) Table wp_rg_lead_meta: Total rows added: 0 in 0.00 seconds
+0003.562 (0) Table wp_rg_lead_meta: finishing file (backup_2015-12-08-2350_adbites_52b77a92afc0-db-table-wp_rg_lead_meta.table.gz - 0.4 Kb)
+0003.570 (0) Table wp_rg_lead_notes: Total expected rows (approximate): 0
+0003.573 (0) Table wp_rg_lead_notes: Total rows added: 0 in 0.00 seconds
+0003.576 (0) Table wp_rg_lead_notes: finishing file (backup_2015-12-08-2350_adbites_52b77a92afc0-db-table-wp_rg_lead_notes.table.gz - 0.4 Kb)
+0003.583 (0) backup_2015-12-08-2350_adbites_52b77a92afc0-db-table-wp_options.table.gz (1/34): adding to final database dump
+0003.629 (0) backup_2015-12-08-2350_adbites_52b77a92afc0-db-table-wp_users.table.gz (2/34): adding to final database dump
+0003.631 (0) backup_2015-12-08-2350_adbites_52b77a92afc0-db-table-wp_usermeta.table.gz (3/34): adding to final database dump
+0003.634 (0) backup_2015-12-08-2350_adbites_52b77a92afc0-db-table-wp_commentmeta.table.gz (4/34): adding to final database dump
+0003.636 (0) backup_2015-12-08-2350_adbites_52b77a92afc0-db-table-wp_comments.table.gz (5/34): adding to final database dump
+0003.639 (0) backup_2015-12-08-2350_adbites_52b77a92afc0-db-table-wp_links.table.gz (6/34): adding to final database dump
+0003.641 (0) backup_2015-12-08-2350_adbites_52b77a92afc0-db-table-wp_postmeta.table.gz (7/34): adding to final database dump
+0003.655 (0) backup_2015-12-08-2350_adbites_52b77a92afc0-db-table-wp_posts.table.gz (8/34): adding to final database dump
+0003.669 (0) backup_2015-12-08-2350_adbites_52b77a92afc0-db-table-wp_term_relationships.table.gz (9/34): adding to final database dump
+0003.672 (0) backup_2015-12-08-2350_adbites_52b77a92afc0-db-table-wp_term_taxonomy.table.gz (10/34): adding to final database dump
+0003.674 (0) backup_2015-12-08-2350_adbites_52b77a92afc0-db-table-wp_terms.table.gz (11/34): adding to final database dump
+0003.676 (0) backup_2015-12-08-2350_adbites_52b77a92afc0-db-table-wp_ab_appointments.table.gz (12/34): adding to final database dump
+0003.679 (0) backup_2015-12-08-2350_adbites_52b77a92afc0-db-table-wp_ab_categories.table.gz (13/34): adding to final database dump
+0003.680 (0) backup_2015-12-08-2350_adbites_52b77a92afc0-db-table-wp_ab_coupons.table.gz (14/34): adding to final database dump
+0003.682 (0) backup_2015-12-08-2350_adbites_52b77a92afc0-db-table-wp_ab_customer_appointments.table.gz (15/34): adding to final database dump
+0003.684 (0) backup_2015-12-08-2350_adbites_52b77a92afc0-db-table-wp_ab_customers.table.gz (16/34): adding to final database dump
+0003.687 (0) backup_2015-12-08-2350_adbites_52b77a92afc0-db-table-wp_ab_holidays.table.gz (17/34): adding to final database dump
+0003.689 (0) backup_2015-12-08-2350_adbites_52b77a92afc0-db-table-wp_ab_notifications.table.gz (18/34): adding to final database dump
+0003.691 (0) backup_2015-12-08-2350_adbites_52b77a92afc0-db-table-wp_ab_payments.table.gz (19/34): adding to final database dump
+0003.694 (0) backup_2015-12-08-2350_adbites_52b77a92afc0-db-table-wp_ab_schedule_item_breaks.table.gz (20/34): adding to final database dump
+0003.696 (0) backup_2015-12-08-2350_adbites_52b77a92afc0-db-table-wp_ab_sent_notifications.table.gz (21/34): adding to final database dump
+0003.698 (0) backup_2015-12-08-2350_adbites_52b77a92afc0-db-table-wp_ab_services.table.gz (22/34): adding to final database dump
+0003.699 (0) backup_2015-12-08-2350_adbites_52b77a92afc0-db-table-wp_ab_staff.table.gz (23/34): adding to final database dump
+0003.702 (0) backup_2015-12-08-2350_adbites_52b77a92afc0-db-table-wp_ab_staff_schedule_items.table.gz (24/34): adding to final database dump
+0003.704 (0) backup_2015-12-08-2350_adbites_52b77a92afc0-db-table-wp_ab_staff_services.table.gz (25/34): adding to final database dump
+0003.706 (0) backup_2015-12-08-2350_adbites_52b77a92afc0-db-table-wp_rg_form.table.gz (26/34): adding to final database dump
+0003.708 (0) backup_2015-12-08-2350_adbites_52b77a92afc0-db-table-wp_rg_form_meta.table.gz (27/34): adding to final database dump
+0003.712 (0) backup_2015-12-08-2350_adbites_52b77a92afc0-db-table-wp_rg_form_view.table.gz (28/34): adding to final database dump
+0003.714 (0) backup_2015-12-08-2350_adbites_52b77a92afc0-db-table-wp_rg_incomplete_submissions.table.gz (29/34): adding to final database dump
+0003.716 (0) backup_2015-12-08-2350_adbites_52b77a92afc0-db-table-wp_rg_lead.table.gz (30/34): adding to final database dump
+0003.718 (0) backup_2015-12-08-2350_adbites_52b77a92afc0-db-table-wp_rg_lead_detail.table.gz (31/34): adding to final database dump
+0003.720 (0) backup_2015-12-08-2350_adbites_52b77a92afc0-db-table-wp_rg_lead_detail_long.table.gz (32/34): adding to final database dump
+0003.722 (0) backup_2015-12-08-2350_adbites_52b77a92afc0-db-table-wp_rg_lead_meta.table.gz (33/34): adding to final database dump
+0003.725 (0) backup_2015-12-08-2350_adbites_52b77a92afc0-db-table-wp_rg_lead_notes.table.gz (34/34): adding to final database dump
+0003.727 (0) backup_2015-12-08-2350_adbites_52b77a92afc0-db.gz: finished writing out complete database file (184 Kb)
+0003.739 (0) Total database tables backed up: 34 (backup_2015-12-08-2350_adbites_52b77a92afc0-db.gz, size: 192596, checksum (SHA1): bd68e4daa67ea059943617a908858877899f8cb4)
+0003.744 (0) Saving backup history
+0003.751 (0) backup_2015-12-08-2350_adbites_52b77a92afc0-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0003.753 (0) backup_2015-12-08-2350_adbites_52b77a92afc0-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0003.755 (0) backup_2015-12-08-2350_adbites_52b77a92afc0-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0003.757 (0) backup_2015-12-08-2350_adbites_52b77a92afc0-others.zip: others: This file has not yet been successfully uploaded: will queue
+0003.759 (0) backup_2015-12-08-2350_adbites_52b77a92afc0-db.gz: db: This file has not yet been successfully uploaded: will queue
+0003.763 (0) Requesting upload of the files that have not yet been successfully uploaded (5)
+0003.770 (0) Cloud backup selection (1/1): none (last)
+0003.772 (0) No remote despatch: user chose no remote backup service
+0003.777 (0) Recording as successfully uploaded: backup_2015-12-08-2350_adbites_52b77a92afc0-plugins.zip (7ee032593eb76c9478464c35f64ad6ea)
+0003.788 (0) Recording as successfully uploaded: backup_2015-12-08-2350_adbites_52b77a92afc0-themes.zip (8946785dcc8b6794590a329b328c2692)
+0003.797 (0) Recording as successfully uploaded: backup_2015-12-08-2350_adbites_52b77a92afc0-uploads.zip (c0630b8cee304cb99fa69236f360a8a9)
+0003.806 (0) Recording as successfully uploaded: backup_2015-12-08-2350_adbites_52b77a92afc0-others.zip (2b17f74373527d50ea1be2f45b1cb53b)
+0003.815 (0) Recording as successfully uploaded: backup_2015-12-08-2350_adbites_52b77a92afc0-db.gz (9cc56766f5825c1893000197314aa87c)
+0003.825 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0003.827 (0) Number of backup sets in history: 1
+0003.829 (0) Examining backup set with datestamp: 1449615024 (Dec 08 2015 22:50:24)
+0003.831 (0) 1449615024: this backup set remains non-empty (1/1); will retain in history
+0003.833 (0) Retain: saving new backup history (sets now: 1) and finishing retain operation
+0003.837 (0) Resume backup (52b77a92afc0, 0): finish run
+0003.841 (0) Decremented the semaphore (fd) by 1
+0003.845 (0) Semaphore (fd) unlocked
+0003.847 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0003.854 (0) The backup apparently succeeded and is now complete
+0003.856 (0) No email will/can be sent - the user has not configured an email address.
+0003.858 (0) Die Sicherung war anscheinend erfolgreich und ist nun vollständig

@@ -1,0 +1,525 @@
+ <!DOCTYPE html>
+<html lang="en">
+  <head><link rel="stylesheet" type="text/css" href="http://dev3.adbites.de/ressources/cache/minify/000000/M9BPTEnKLEkt1k8uLtZPys8vKS4pSizQy83M0zGAyxWXVOakAgA.css" media="all" />
+
+  
+    <title>Startseite - adbites</title>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="author" content="adbites social media">
+    <link rel="icon" href="../../favicon.ico">
+
+
+    
+	
+	<link rel="stylesheet" href="http://dev2.adbites.de/wp-content/themes/adbites-child/animate.css"> 
+
+<!-- 	 <link rel="stylesheet" href="http://dev3.adbites.de/ressources/themes/adbites/css/animate.min.css"> -->
+
+
+<!--     <script src="http://dev3.adbites.de/ressources/themes/adbites/assets/js/ie-emulation-modes-warning.js"></script> -->
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+    
+    <link href='https://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Roboto+Slab:300,700' rel='stylesheet' type='text/css'>
+
+
+
+<!-- Featured Image abgreifen fuer Blogposts -->
+
+<!-- Featured Image Ende -->
+
+
+<!-- Featured Image abgreifen fuer Cases -->
+
+<!-- Featured Image Ende -->
+
+
+ 
+  </head>
+<!-- NAVBAR
+================================================== -->
+  <body class="home page page-id-11 page-template page-template-homepage page-template-homepage-php">
+ 
+  
+  
+  <!-- Navbar neu -->
+  <nav class="navbar navbar-inverse navbar-fixed-top">
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar top-bar"></span>
+        <span class="icon-bar middle-bar"></span>
+        <span class="icon-bar bottom-bar"></span>
+      </button>
+       <a class="navbar-brand" href="/"><img src="http://dev3.adbites.de/ressources/assets/adbites_logo1.svg"></a>
+
+    </div>
+
+    
+         <div id="navbar" class="navbar-collapse collapse text-center">
+         
+          <ul id="menu-top" class="nav navbar-nav navbar-right"><li id="menu-item-1349" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-11 current_page_item menu-item-1349 active"><a title="Startseite" href="http://dev3.adbites.de/">Startseite</a></li><li id="menu-item-83" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-83"><a title="Über uns" href="http://dev3.adbites.de/social-media-agentur-adbites/">Über uns</a></li><li id="menu-item-86" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-86"><a title="Unser Ansatz" href="http://dev3.adbites.de/unser-ansatz/">Unser Ansatz</a></li><li id="menu-item-104" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-104"><a title="Cases" href="http://dev3.adbites.de/cases/">Cases</a></li><li id="menu-item-1329" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1329"><a title="Blog" href="/blog/">Blog</a></li></ul>
+            </div>
+          </div>
+</nav>
+  
+  </div>
+  </div>
+ 
+ 
+        <!-- Page Content -->
+
+<section id="big-video">
+ <div id="video_overlays"></div>
+    <div class="video" data-src="[FALLBACK IMAGE URL]" data-video="http://Booking:8888/ressources/assets/AdbitesReel.mp4.mp4" data-placeholder="[PLACEHOLDER IMAGE URL]"></div>
+    
+    <div class="home1text text-center"><h1><span class="homefatani1">digital.</span><span class="homefatani2"> wegweisend.</span></h1>
+<p class="lead homeleadani" style="color:#ffffff">Wir sind adbites. Eine Social Media & Digital Agentur, die Kunden und Marken durch Innovationen zusammenbringt.</p></div>
+    <div class="chevronhome">
+	<span class="glyphicon glyphicon-menu-down" style="color: #ffffff; font-size: 44px; " aria-hidden="true"></span>
+</div>
+</div>
+</section>
+              
+
+<div class="navcolchange"></div>
+<div class="spacer"></div>  
+
+<section class="home2">
+<div id="trigger1" class="spacer s0">
+</div>
+<div class="container">
+<div class="row">
+  <div class="col-md-3"></div>
+  <div class="col-md-6 home2text text-center"><h3>Denken, entwickeln, zum Leben erwecken.</h3>
+  <hr class="post-header-regular">
+<p>Wir entwickeln Lösungen für digitale Interaktionen. In sozialen Netzwerken und auf Web- und Microsites. Wir sind ganz auf kreatives, innovatives und effektives Digital- und Social Media Marketing spezialisiert. Unsere Kunden meinen, dass wir darin ziemlich gut sind.</p></div>
+<div class="col-md-3"></div>
+  </div>
+
+<div class="row" style="padding-top:50px; padding-bottom: 15%">
+ <div class="col-md-4"></div>
+  <div class="col-sm-12 col-md-4"><span style="float:left"><a href="http://#" class="btn btn-default home">Arbeiten</a></span><span style="float:right"><a href="http://#" class="btn btn-default home">Services</a></span></div>
+  <div class="col-md-4"></div>
+</div>  
+
+  
+</div>
+</div>
+
+<!-- Start Slider -->
+<section class="homeslider" style="padding-bottom: 220px">
+
+<div class="carousel fade-carousel slide" data-ride="carousel" data-interval="3500" id="bs-carousel">
+  <!-- Overlay -->
+  <div class="overlay"></div>
+
+  <!-- Indicators -->
+  <ol class="carousel-indicators">
+    <li data-target="#bs-carousel" data-slide-to="0" class="active"></li>
+    <li data-target="#bs-carousel" data-slide-to="1"></li>
+    <li data-target="#bs-carousel" data-slide-to="2"></li>
+    <li data-target="#bs-carousel" data-slide-to="3"></li>
+  </ol>
+  
+  <!-- Wrapper for slides -->
+  <div class="carousel-inner">
+
+    <div class="item slides active">
+
+      <div class="slide-1"></div>
+      <div class="hero">
+        <hgroup>
+            <h3>Glückliche Momente mit Pril</h3>
+        </hgroup>
+        <p>Gemeinsam mit Pril haben wir mit mehr als 16.000 Menschen über die glücklichsten Momente ihres Lebens gesprochen.</p>
+        <button class="btn btn-hero btn-lg" role="button">Case ansehen</button>
+      </div>
+    </div>
+    <div class="item slides">
+      <div class="slide-2"></div>
+      <div class="hero">        
+        <hgroup>
+            <h3>Kräuter sucht den Superstar</h3>
+        </hgroup>
+        <p>Underberg, der original Rheinberger Kräuter, hat mit uns Talente in ganz Deutschland aufgerufen, ihre Gesangskünste unter Beweis zu stellen. Wir haben unseren Lieblings-Digestif mit einer Microsite, Social Network Services und der kompletten technischen Infrastruktur unterstützt.</p>       
+        <button class="btn btn-hero btn-lg" role="button">Case ansehen</button>
+      </div>
+    </div>
+    <div class="item slides">
+      <div class="slide-3"></div>
+      <div class="hero">        
+        <hgroup>
+            <h3>Mit Spee auf großer Weltreise</h3>
+        </hgroup>
+        <p>Underberg, der original Rheinberger Kräuter, hat mit uns Talente in ganz Deutschland aufgerufen, ihre Gesangskünste unter Beweis zu stellen. Wir haben unseren Lieblings-Digestif mit einer Microsite, Social Network Services und der kompletten technischen Infrastruktur unterstützt.</p>
+        <button class="btn btn-hero btn-lg" role="button">Case ansehen</button>
+      </div>
+    </div>
+   
+    <a class="left carousel-control" href="#bs-carousel" data-slide="prev">
+  <span class="glyphicon glyphicon-chevron-left"></span>
+</a>
+ 
+<a class="right carousel-control" href="#bs-carousel" data-slide="next">
+  <span class="glyphicon glyphicon-chevron-right"></span>
+</a>
+  </div> 
+
+</div>
+
+</section>
+<!-- End Slider -->
+
+    
+<!-- Start Clients -->
+<section class="home4">
+
+<div class="container">
+
+        <div class="row">
+		
+            <div class="col-lg-12 text-center">
+            
+             <h2 class="smalltitle">MARKEN & KUNDEN</h2>      
+                  
+              <img src="http://Booking:8888/ressources/assets/divider_orange1.svg" alt="divider_orange" class="alignnone size-full wp-image-73" />
+            
+                <h3>Einige Marken, die wir weiter gebracht haben</h3></br>              
+            </div>
+
+            <div class="col-lg-2 col-md-3 col-xs-4 thumb">
+                <a class="thumbnail">
+                    <img class="img-responsive" src="http://Booking:8888/ressources/assets/Henkel.svg" alt="">
+                </a>
+            </div>
+            <div class="col-lg-2 col-md-3 col-xs-4 thumb">
+                <a class="thumbnail">
+                    <img class="img-responsive" src="http://Booking:8888/ressources/assets/PrilLogo-2.jpg" alt="">
+                </a>
+            </div>
+            <div class="col-lg-2 col-md-3 col-xs-4 thumb">
+                <a class="thumbnail">
+                    <img class="img-responsive" src="http://Booking:8888/ressources/assets/MA_Logo.svg" alt="">
+                </a>
+            </div>
+            <div class="col-lg-2 col-md-3 col-xs-4 thumb">
+                <a class="thumbnail">
+                    <img class="img-responsive" src="http://Booking:8888/ressources/assets/DE_logo-3.svg" alt="">
+                </a>
+            </div>
+            <div class="col-lg-2 col-md-3 col-xs-4 thumb">
+                <a class="thumbnail">
+                    <img class="img-responsive" src="http://Booking:8888/ressources/assets/ub-compressor.svg" alt="">
+                </a>
+            </div>
+            <div class="col-lg-2 col-md-3 col-xs-4 thumb">
+                <a class="thumbnail">
+                    <img class="img-responsive" src="http://Booking:8888/ressources/assets/Lifetimes_Logo.svg" alt="">
+                </a>
+            </div>
+            <div class="col-lg-2 col-md-3 col-xs-4 thumb">
+                <a class="thumbnail">
+                    <img class="img-responsive" src="http://Booking:8888/ressources/assets/SpeeLogo.jpg" alt="">
+                </a>
+            </div>
+            <div class="col-lg-2 col-md-3 col-xs-4 thumb">
+                <a class="thumbnail">
+                    <img class="img-responsive" src="http://Booking:8888/ressources/assets/AmarulaLogo.jpg" alt="">
+                </a>
+            </div>
+             <div class="col-lg-2 col-md-3 col-xs-4 thumb">
+                <a class="thumbnail">
+                    <img class="img-responsive" src="http://Booking:8888/ressources/assets/PituLogo.jpg" alt="">
+                </a>
+            </div>
+             <div class="col-lg-2 col-md-3 col-xs-4 thumb">
+                <a class="thumbnail">
+                    <img class="img-responsive" src="http://placehold.it/400x300" alt="">
+                </a>
+            </div>
+             <div class="col-lg-2 col-md-3 col-xs-4 thumb">
+                <a class="thumbnail">
+                    <img class="img-responsive" src="http://Booking:8888/ressources/assets/LBSLogo.svg" alt="">
+                </a>
+            </div>
+             <div class="col-lg-2 col-md-3 col-xs-4 thumb">
+                <a class="thumbnail">
+                    <img class="img-responsive" src="http://Booking:8888/ressources/assets/NovaLogo.svg" alt="">
+                </a>
+            </div>
+       
+        </div>
+
+</div>
+    
+    
+</section>
+
+<!-- End Clients -->
+
+
+    <div class="container marketing">
+      
+      
+ <!-- /Start Blogposts -->
+ 
+ <div class="col-lg-12 text-center">
+                <h3>Aktuelle Gedanken</h3>
+                <hr class="post-header-regular">
+            </div>
+            
+            
+			<div class="row" style="padding-bottom: 80px; padding-top: 50px">
+						
+									
+						<div class="col-lg-4 col-md-4 col-sm-12 text-center beitrag">
+							<div class="embed-container">
+							
+								<a href="http://dev3.adbites.de/test-2/" title="Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip">
+	<img width="300" height="200" src="http://dev3.adbites.de/ressources/assets/lighthouse-300x200.jpg" class="attachment-medium size-medium wp-post-image" alt="lighthouse" srcset="http://dev3.adbites.de/ressources/assets/lighthouse-300x200.jpg 300w, http://dev3.adbites.de/ressources/assets/lighthouse-1024x683.jpg 1024w, http://dev3.adbites.de/ressources/assets/lighthouse.jpg 1500w" sizes="(max-width: 300px) 100vw, 300px" />	</a>
+							<!-- <img width="300" height="200" src="http://dev3.adbites.de/ressources/assets/lighthouse-300x200.jpg" class="attachment-medium size-medium wp-post-image" alt="lighthouse" srcset="http://dev3.adbites.de/ressources/assets/lighthouse-300x200.jpg 300w, http://dev3.adbites.de/ressources/assets/lighthouse-1024x683.jpg 1024w, http://dev3.adbites.de/ressources/assets/lighthouse.jpg 1500w" sizes="(max-width: 300px) 100vw, 300px" /> --> 
+								<h3 class="smalltitle">Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip</h3>
+							</div>
+							<div class="embed-container">
+								Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod temp...							</div>
+							<div>
+								<a class="btn btn-primary btn-xs mehr" href="http://dev3.adbites.de/test-2/">Mehr lesen</a> 
+								
+							</div>
+						</div>
+						
+								
+				
+										
+						<div class="col-lg-4 col-md-4 col-sm-12 text-center beitrag">
+							<div class="embed-container">
+							
+														<!--  --> 
+								<h3 class="smalltitle">Der Einfluss von Social Media auf Suchmaschinenplatzierungen</h3>
+							</div>
+							<div class="embed-container">
+								Eine Frage, die Online Marketer schon eine ganze Weile beschäftigt, ist die n...							</div>
+							<div>
+								<a class="btn btn-primary btn-xs mehr" href="http://dev3.adbites.de/einfluss-social-media-suchmaschinen/">Mehr lesen</a> 
+								
+							</div>
+						</div>
+						
+								
+				
+										
+						<div class="col-lg-4 col-md-4 col-sm-12 text-center beitrag">
+							<div class="embed-container">
+							
+								<a href="http://dev3.adbites.de/adbites-bringt-2-marken-in-top10/" title="Adbites bringt gleich 2 Marken in die Facebook Top10">
+		</a>
+							<!--  --> 
+								<h3 class="smalltitle">Adbites bringt gleich 2 Marken in die Facebook Top10</h3>
+							</div>
+							<div class="embed-container">
+								Wenn es um Social Media Analysen und Statistiken geht, ist Socialbakers weltw...							</div>
+							<div>
+								<a class="btn btn-primary btn-xs mehr" href="http://dev3.adbites.de/adbites-bringt-2-marken-in-top10/">Mehr lesen</a> 
+								
+							</div>
+						</div>
+						
+								
+				
+								</div>
+			
+			
+				  
+
+
+    <!-- FOOTER -->
+   
+      </div><!-- /.container -->
+      
+       <section>
+       <hr class="footercut">
+ <div class="container-fluid primary-footer">
+     <div class="col-lg-6">
+     	<div>			<div class="textwidget"></br><img class="alignleft size-full wp-image-68" src="http://dev3.adbites.de/ressources/assets/adbites_logo_dgrey.svg" alt="adbites - social media marketing agentur" /></br></br>
+<p>Wallbaumweg 96</br>
+44894 Bochum</br>
+0234. 90 20 327</p>
+<a class="btn btn-default footline" data-toggle="modal" data-target="#contactModal" href="#" role="button">Nachricht schicken</a></div>
+		</div>     </div>
+      <div class="col-lg-6 pull-right">
+     	
+     </div>
+ </div>
+ </section>
+ 
+      <div class="container-fluid copy-footer" style="padding-bottom:20px">
+      	<footer>
+      	<div class="container">
+        <!-- <p class="pull-right"><a href="#">Back to top</a></p> -->
+        <small>&copy; 2016 Adbites GmbH &middot; Social Media Agentur</small>
+      	</div>
+      </footer>
+      </div><!-- .container-fluid -->
+      
+
+    
+    
+    
+    <script src="http://dev3.adbites.de/ressources/themes/adbites/js/ScrollMagic.min.js"></script>
+<!-- 	 <script src="http://dev3.adbites.de/ressources/themes/adbites/js/debug.addIndicators.js"></script> -->
+	 <script type="text/javascript" src="http://dev3.adbites.de/ressources/cache/minify/000000/ZY9BFsIgDEQvJFCeO-_gzgsEm0dTgSBJrd7eWl1YXWb-vJnMoFrl4ByMcLeROSaESmLPnFfNJQrixuuE7eG89d7uP5fNVOwou85BH0hxcYkLzCraoL7oFwIR1NVB6DtzI5wrNzVhimbmdoHGU-m3WXJunJJRrlt9QOgbc_6pWMhpRizHZcgfgUIZlLjYKO_nng.js"></script>
+<script type="text/javascript" src="http://dev3.adbites.de/ressources/cache/minify/000000/M9BPTEnKLEkt1s8q1k_MK8nMzU9JLUosSdXLzcwDAA.js"></script>
+<script src="http://dev3.adbites.de/ressources/themes/adbites/js/mainnew.js"></script>
+	 
+	 
+	
+
+<!-- Scroll Top -->
+<script type="text/javascript">
+ 
+   $(document).ready(function(){
+ 
+      $('.top').UItoTop();
+ 
+   });
+ 
+</script>
+
+<!-- Change Menu Color -->
+
+<script type="text/javascript">
+$(document).ready(function(){       
+   var scroll_start = 0;
+   var startchange = $('.navcolchange');
+   var offset = startchange.offset();
+    if (startchange.length){
+   $(document).scroll(function() { 
+      scroll_start = $(this).scrollTop();
+      if(scroll_start > offset.top) {
+          $(".navbar-inverse").css('background-color', '#000000');
+       } else {
+          $('.navbar-inverse').css('background-color', 'transparent');
+       }
+   });
+    }
+});
+
+</script>
+
+          
+             
+   <!-- HeadRoom  -->
+
+               <script type="text/javascript" src="http://dev3.adbites.de/ressources/cache/minify/000000/M9BPTEnKLEkt1s8q1s9ITUwpys_P1cvNzAMA.js"></script>
+<style type="text/css">
+    .headroom {position: fixed;top: 0;left: 0;right: 0;transition: all .2s ease-in-out;}
+    .headroom--unpinned {top: -100px;}
+    .headroom--pinned {top: 0;}
+    </style>
+    
+   <script  type="text/javascript"  src="https://rawgithub.com/WickyNilliams/headroom.js/master/dist/headroom.js"></script>      
+   <script  type="text/javascript"  src="https://rawgithub.com/WickyNilliams/headroom.js/master/src/jQuery.headroom.js"></script>
+    <script type="text/javascript">
+        $(".navbar-fixed-top").headroom();
+    </script>
+   <!-- HeadRoom  -->
+   
+
+<script type="text/javascript">
+
+$(function() {
+    // Init Controller
+    var scrollMagicController = new ScrollMagic();
+});
+
+</script>
+
+<script type="text/javascript">
+
+ function isIE () {
+    var myNav = navigator.userAgent.toLowerCase();
+    return (myNav.indexOf('msie') != -1) ? parseInt(myNav.split('msie')[1]) : false;
+}
+
+window.isIEOld = isIE() && isIE() < 9;
+window.isiPad = navigator.userAgent.match(/iPad/i);
+
+var img = $('.video').data('placeholder'),
+    video = $('.video').data('video'),
+    noVideo = $('.video').data('src'),
+    el = '';
+
+if($(window).width() > 599 && !isIEOld && !isiPad) {
+    el +=   '<video autoplay loop poster="' + img + '">';
+    el +=       '<source src="' + video + '" type="video/mp4">';
+    el +=   '</video>';
+} else {
+    el = '<div class="video-element" style="background-image: url(' + noVideo + ')"></div>';
+}
+
+$('.video').prepend(el);
+ </script>   
+ 
+  <script type="text/javascript" src="http://dev3.adbites.de/ressources/cache/minify/000000/M9BPTEnKLEkt1s8q1i_PL9fLzcwDAA.js"></script>
+<script>
+              new WOW().init();
+              </script>
+              
+ 
+<!-- Antimoderate              -->
+
+ <script>
+ 
+var img = document.getElementById('antim');
+ 
+ 
+AntiModerate.process(img, img.getAttribute("data-antimoderate-idata"));
+ 
+</script>  
+
+     
+ 
+
+</body>
+</html>
+
+ 
+
+
+<!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
+
+ Served from: dev3.adbites.de @ 2015-12-10 07:08:00 by W3 Total Cache -->
+
+<!-- W3 Total Cache: Minify debug info:
+Engine:             disk
+Theme:              7a8db
+Template:           index
+
+Replaced CSS files:
+1. ressources/themes/adbites/css/bootstrap.min.css
+2. ressources/themes/adbites/style.css
+
+Replaced JavaScript files:
+1. https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js
+2. ressources/themes/adbites/js/bootstrap.min.js
+3. ressources/themes/adbites/assets/js/ie10-viewport-bug-workaround.js
+4. ressources/themes/adbites/js/scroll-top.js
+5. ressources/themes/adbites/js/headroom.min.js
+6. ressources/themes/adbites/js/TweenMax.min.js
+7. ressources/themes/adbites/js/animation.gsap.min.js
+8. ressources/themes/adbites/js/antimoderate.min.js
+9. ressources/themes/adbites/js/headroom.min.js
+10. ressources/themes/adbites/js/wow.min.js
+-->
